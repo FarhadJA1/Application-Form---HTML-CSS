@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    
+}
+.main{
+    background-color: white;
+    text-align: center;
+    height: 610px;
+    
+       
+}
+.button{
+    background-color: rgb(59, 59, 255);
+}
